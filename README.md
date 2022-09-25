@@ -1,7 +1,7 @@
 # Spectral-Clustering
-Implementation of spectral clustering using iterative 2-way partitioning
-main file - spectral.m
-Add dataset, change the number of iterations and threshold.
+Implementation of spectral clustering using iterative 2-way partitioning <br>
+main file - spectral.m <br>
+Add dataset, change the number of iterations and threshold. <br>
 Inline comments are added.
 
 # Found any issues? Want to do some improvements?
